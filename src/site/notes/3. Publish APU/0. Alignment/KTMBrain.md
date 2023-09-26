@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"":null,"permalink":"/3. Publish APU/0. Alignment/KTMBrain/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/3. Publish APU/0. Alignment/KTMBrain/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 
