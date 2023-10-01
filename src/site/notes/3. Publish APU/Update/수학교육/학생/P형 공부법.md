@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3. Publish APU/Update/수학교육/학생/P형 공부법/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/3. Publish APU/Update/수학교육/학생/P형 공부법/","noteIcon":"","created":"","updated":""}
 ---
 
 P형 공부법은 변별력 있는 문제를 풀기 위해 융통성과 적응력을 키우는 방식입니다. 이를 위해 다양한 관점을 고려하고 유연하게 대처하는 능력을 중요시합니다. P형 공부법은 "FROM"을 중요시하여 생각과 단계가 어디서 왜 도출되는지를 이해하는 것을 강조합니다.
