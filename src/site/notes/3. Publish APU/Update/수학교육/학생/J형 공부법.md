@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3. Publish APU/Update/수학교육/학생/J형 공부법/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/3. Publish APU/Update/수학교육/학생/J형 공부법/","noteIcon":"","created":"","updated":""}
 ---
 
 
